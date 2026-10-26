@@ -1,178 +1,134 @@
 ﻿<div align="center">
 
-<img width="100%" src="./assets/blacksite-banner.svg" alt="Chaitanya Karanam — AI and Data Engineering"/>
+<img src="https://img.shields.io/badge/BLACKSITE-TERMINAL-050505?style=for-the-badge&labelColor=050505&color=00ff41"/>
+<img src="https://img.shields.io/badge/NODE-777-050505?style=for-the-badge&labelColor=050505&color=ff334b"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOT+COMPLETE+%5D;DATA+IS+THE+NEW+INTELLIGENCE;INGEST.+TRANSFORM.+DEPLOY.;MACHINE+LEARNING+%2F%2F+BACKEND+SYSTEMS;ACCESS+GRANTED%3A+NODE+777" />
+</div>
 
-<br/>
+```text
+┌────────────────────────────────────────────────────────────────────┐
+│  root@chaitanya:~$ ./initialize                                    │
+│                                                                    │
+│   ██████╗██╗  ██╗ █████╗ ██╗████████╗ █████╗ ███╗   ██╗██╗   ██╗  │
+│  ██╔════╝██║  ██║██╔══██╗██║╚══██╔══╝██╔══██╗████╗  ██║╚██╗ ██╔╝  │
+│  ██║     ███████║███████║██║   ██║   ███████║██╔██╗ ██║ ╚████╔╝   │
+│  ██║     ██╔══██║██╔══██║██║   ██║   ██╔══██║██║╚██╗██║  ╚██╔╝    │
+│  ╚██████╗██║  ██║██║  ██║██║   ██║   ██║  ██║██║ ╚████║   ██║     │
+│   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝     │
+│                                                                    │
+│  OPERATOR  : Chaitanya Karanam                                     │
+│  SPECIALTY : AI / DATA ENGINEERING                                 │
+│  STATUS    : BUILDING                                              │
+│  ACCESS    : AUTHORIZED                                            │
+└────────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://img.shields.io/badge/ROOT%20ACCESS-RESTRICTED-050505?style=flat-square&labelColor=160606&color=ff3030"/>
-<img src="https://img.shields.io/badge/AI%20CORE-ONLINE-050505?style=flat-square&labelColor=07150e&color=00ff41"/>
-<img src="https://img.shields.io/badge/DATA%20PIPELINE-ACTIVE-050505?style=flat-square&labelColor=07150e&color=00ff41"/>
+<div align="center">
+
+`[ DATA SYSTEMS ]` &nbsp; ` [ MACHINE INTELLIGENCE ]` &nbsp; `[ BACKEND ]`
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="100%">
-
-### `root@node-777:~# ./operator_scan`
-
-```text
-╔══════════════════════════════════════════════════════╗
-║              OPERATOR IDENTIFICATION                ║
-╠══════════════════════════════════════════════════════╣
-║  NAME       : CHAITANYA KARANAM                     ║
-║  DOMAIN     : AI / DATA ENGINEERING                  ║
-║  SUBSYSTEMS : ETL / ML / APIs / CLOUD                ║
-║  OBJECTIVE  : TURN RAW DATA INTO INTELLIGENCE        ║
-║  STATUS     : BUILDING THE NEXT SYSTEM               ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-## `01 // NEURAL INTERFACE`
+## `01 / OPERATOR PROFILE`
 
 ```python
-from dataclasses import dataclass
-
-@dataclass
-class Engineer:
-    name: str = "Chaitanya Karanam"
-    focus: tuple = (
+class ChaitanyaKaranam:
+    role = "AI & Data Engineer in Progress"
+    languages = ["Python", "SQL", "Java"]
+    interests = [
         "Data Engineering",
-        "Artificial Intelligence",
         "Machine Learning",
+        "Cloud Infrastructure",
         "Backend Systems",
-    )
-    stack: tuple = ("Python", "SQL", "Java")
-    protocol: str = "Build. Automate. Optimize."
+    ]
+    mission = "Transform raw data into intelligence."
 ```
 
-> I build data-driven applications and explore the systems behind reliable pipelines, intelligent models, and scalable infrastructure.
+> Building practical systems at the intersection of data engineering, machine learning, and software development.
 
-## `02 // WEAPONIZED TOOLCHAIN`
+## `02 / SYSTEM MODULES`
 
-<div align="center">
+| MODULE | STACK |
+|:--|:--|
+| `01 INGESTION` | Python, REST APIs |
+| `02 TRANSFORMATION` | SQL, dbt, ETL |
+| `03 STORAGE` | PostgreSQL, MySQL |
+| `04 INTELLIGENCE` | Scikit-learn, Pandas, NumPy |
+| `05 SERVICES` | FastAPI |
+| `06 INFRASTRUCTURE` | Docker, Git, Cloud |
+| `07 OBSERVABILITY` | Streamlit, Plotly |
 
-<img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,docker,git,fastapi,aws,gcp&theme=dark&perline=9"/>
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-**// DATA SYSTEMS**
-
-`01` API ingestion  
-`02` ETL / ELT pipelines  
-`03` SQL & data modeling  
-`04` dbt transformations  
-`05` Streaming fundamentals
-
-</td>
-<td width="50%">
-
-**// INTELLIGENCE SYSTEMS**
-
-`01` Machine learning  
-`02` Scikit-learn  
-`03` Pandas / NumPy  
-`04` FastAPI services  
-`05` Cloud & containers
-
-</td>
-</tr>
-</table>
-
-## `03 // ENCRYPTED PROJECT ARCHIVE`
-
-<details>
-<summary>🔴 <b>PROJECT_001 :: SAFESCHED</b> — DEADLOCK DETECTION</summary>
+## `03 / PROJECT FILESYSTEM`
 
 ```text
-CLASSIFICATION : RESOURCE ORCHESTRATION
-CORE           : LOGISTIC REGRESSION + BANKER'S ALGORITHM
-SERVICE        : FASTAPI
-DEPLOYMENT     : DOCKER / AWS APP RUNNER
+/projects
+├── safesched/
+│   ├── machine-learning
+│   ├── bankers-algorithm
+│   └── fastapi-backend
+├── pipeone/
+│   ├── api-ingestion
+│   ├── postgresql-warehouse
+│   └── dbt-transformations
+└── movieflix/
+    ├── prediction-model
+    └── containerized-backend
 ```
 
-A deadlock-aware scheduling system combining machine learning with algorithmic verification to evaluate resource-allocation states.
+<details>
+<summary><b>▸ SAFESCHED — DEADLOCK-AWARE SCHEDULING</b></summary>
 
-**Stack:** Python · Machine Learning · FastAPI · Docker
+Combines Logistic Regression and the Banker's Algorithm to assess resource-allocation safety.
+
+`Python` `Machine Learning` `FastAPI` `Docker`
 
 </details>
 
 <details>
-<summary>🟢 <b>PROJECT_002 :: PIPEONE</b> — DATA WAREHOUSE</summary>
+<summary><b>▸ PIPEONE — API TO DATA WAREHOUSE</b></summary>
 
-```text
-SOURCE   : GITHUB EVENTS + HACKER NEWS APIs
-INGEST   : PYTHON
-STORAGE  : POSTGRESQL
-TRANSFORM: DBT
-DASHBOARD: STREAMLIT
-```
+Ingests GitHub Events and Hacker News data, deduplicates records, upserts into PostgreSQL, and transforms data with dbt.
 
-An API-to-warehouse pipeline featuring ingestion, deduplication, database upserts, transformations, and analytics.
-
-**Stack:** Python · PostgreSQL · dbt · Streamlit
+`Python` `PostgreSQL` `dbt` `Streamlit`
 
 </details>
 
 <details>
-<summary>🔴 <b>PROJECT_003 :: MOVIEFLIX</b> — ML APPLICATION</summary>
+<summary><b>▸ MOVIEFLIX — ML APPLICATION</b></summary>
 
-A movie prediction project exploring machine learning, backend integration, and containerized deployment.
+A movie prediction project exploring model integration and containerized backend deployment.
 
-**Stack:** Python · Machine Learning · Docker
+`Python` `Machine Learning` `Docker`
 
 </details>
 
-## `04 // LIVE SYSTEM TELEMETRY`
+## `04 / LIVE TELEMETRY`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=050707&title_color=00ff41&icon_color=ff3030&text_color=b8c9be"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&icon_color=ff334b&text_color=c9d1d9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=050707&title_color=00ff41&text_color=b8c9be"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=050505&title_color=00ff41&text_color=c9d1d9"/>
 
 </div>
 
-## `05 // EXECUTION QUEUE`
+## `05 / EXECUTION QUEUE`
 
 ```text
-[ ACTIVE ]  Python / SQL engineering
-[ ACTIVE ]  ETL and warehouse development
-[ ACTIVE ]  AI / ML application development
-[ ACTIVE ]  Backend and cloud fundamentals
-[ NEXT   ]  More reliable production pipelines
+[ ACTIVE ] Python / SQL
+[ ACTIVE ] Data pipelines and warehouse systems
+[ ACTIVE ] AI / ML application development
+[ EXPLORING ] Cloud infrastructure and streaming
 ```
 
-## `06 // OPEN CHANNEL`
+## `06 / CONNECTION`
 
 <div align="center">
 
-<a href="https://github.com/chaitanyakaranam777?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT%20ARCHIVE-020303?style=for-the-badge&logo=github&logoColor=00ff41"/>
-</a>
+[![GitHub](https://img.shields.io/badge/ACCESS_PROJECTS-050505?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/chaitanyakaranam777?tab=repositories)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff41,40:102d1c,100:020303&animation=twinkling"/>
-
-```text
-CONNECTION TERMINATED.
-THE PIPELINE CONTINUES.
-```
-
-<sub>ENGINEER THE DATA // TRAIN THE MODEL // SHIP THE SYSTEM</sub>
+`END OF TRANSMISSION // NODE 777`
 
 </div>
-
