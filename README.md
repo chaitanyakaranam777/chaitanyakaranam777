@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020303,25:07150e,60:102d1c,100:00ff41&text=CH4ITANYA&fontSize=58&fontColor=00ff41&fontAlignY=40&desc=KARANAM%20%2F%2F%20AI%20%26%20DATA%20ENGINEERING&descSize=14&descAlignY=63&animation=twinkling&fontAlign=50"/>
+<img width="100%" src="./assets/blacksite-banner.svg" alt="Chaitanya Karanam — AI and Data Engineering"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOT+COMPLETE+%5D;DATA+IS+THE+NEW+INTELLIGENCE;INGEST.+TRANSFORM.+DEPLOY.;MACHINE+LEARNING+%2F%2F+BACKEND+SYSTEMS;ACCESS+GRANTED%3A+NODE+777" />
 
@@ -175,3 +175,4 @@ THE PIPELINE CONTINUES.
 <sub>ENGINEER THE DATA // TRAIN THE MODEL // SHIP THE SYSTEM</sub>
 
 </div>
+
