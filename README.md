@@ -1,148 +1,177 @@
 ﻿<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:07110b,70:10291a,100:00ff41&text=chaitanya&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=DATA%20%2F%2F%20INTELLIGENCE%20%2F%2F%20SYSTEMS&descAlignY=60&descSize=15&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020303,25:07150e,60:102d1c,100:00ff41&text=CH4ITANYA&fontSize=58&fontColor=00ff41&fontAlignY=40&desc=KARANAM%20%2F%2F%20AI%20%26%20DATA%20ENGINEERING&descSize=14&descAlignY=63&animation=twinkling&fontAlign=50"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2200&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+BOOT+COMPLETE+%5D;DATA+IS+THE+NEW+INTELLIGENCE;INGEST.+TRANSFORM.+DEPLOY.;MACHINE+LEARNING+%2F%2F+BACKEND+SYSTEMS;ACCESS+GRANTED%3A+NODE+777" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=INITIALIZING+NEURAL+INTERFACE...;DATA+PIPELINES+ARE+ONLINE;MACHINE+LEARNING+%3A+ENGAGED;NOISE+IN+%3D%3E+SIGNAL+OUT;BUILDING+SYSTEMS+BEYOND+THE+SURFACE" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/IDENTITY-CHAITANYA%20KARAMAN-050505?style=for-the-badge&labelColor=000000&color=00ff41"/>
-<img src="https://img.shields.io/badge/CLASS-AI%20%2F%20DATA%20ENGINEER-050505?style=for-the-badge&labelColor=000000&color=00ff41"/>
+<img src="https://img.shields.io/badge/ROOT%20ACCESS-RESTRICTED-050505?style=flat-square&labelColor=160606&color=ff3030"/>
+<img src="https://img.shields.io/badge/AI%20CORE-ONLINE-050505?style=flat-square&labelColor=07150e&color=00ff41"/>
+<img src="https://img.shields.io/badge/DATA%20PIPELINE-ACTIVE-050505?style=flat-square&labelColor=07150e&color=00ff41"/>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="100%">
+
+### `root@node-777:~# ./operator_scan`
+
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  [ BLACKSITE TERMINAL // NODE 777 ]                          │
-│                                                              │
-│  USER       : chaitanyakaranam777                            │
-│  SPECIALTY  : DATA ENGINEERING / AI SYSTEMS                  │
-│  PROTOCOL   : AUTOMATE EVERYTHING                            │
-│  OBJECTIVE  : RAW DATA  --->  INTELLIGENCE                   │
-│  STATUS     : LEARNING / BUILDING / DEPLOYING                │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║              OPERATOR IDENTIFICATION                ║
+╠══════════════════════════════════════════════════════╣
+║  NAME       : CHAITANYA KARANAM                     ║
+║  DOMAIN     : AI / DATA ENGINEERING                  ║
+║  SUBSYSTEMS : ETL / ML / APIs / CLOUD                ║
+║  OBJECTIVE  : TURN RAW DATA INTO INTELLIGENCE        ║
+║  STATUS     : BUILDING THE NEXT SYSTEM               ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-## `// 01 — OPERATOR PROFILE`
+</td>
+</tr>
+</table>
+
+## `01 // NEURAL INTERFACE`
 
 ```python
-class Operator:
-    def __init__(self):
-        self.name = "Chaitanya Karanam"
-        self.role = "AI & Data Engineer in Progress"
-        self.languages = ["Python", "SQL", "Java"]
-        self.domains = [
-            "Data Engineering",
-            "Machine Learning",
-            "Backend Architecture",
-            "Cloud Infrastructure"
-        ]
+from dataclasses import dataclass
 
-    def execute(self):
-        return "Build systems. Solve problems. Repeat."
+@dataclass
+class Engineer:
+    name: str = "Chaitanya Karanam"
+    focus: tuple = (
+        "Data Engineering",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Systems",
+    )
+    stack: tuple = ("Python", "SQL", "Java")
+    protocol: str = "Build. Automate. Optimize."
 ```
 
-> I work at the intersection of data, intelligence, and software engineering — building pipelines that move information and applications that make it useful.
+> I build data-driven applications and explore the systems behind reliable pipelines, intelligent models, and scalable infrastructure.
 
-## `// 02 — THE ENGINE ROOM`
+## `02 // WEAPONIZED TOOLCHAIN`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,docker,git,fastapi,aws&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,docker,git,fastapi,aws,gcp&theme=dark&perline=9"/>
 
 </div>
 
+<table>
+<tr>
+<td width="50%">
+
+**// DATA SYSTEMS**
+
+`01` API ingestion  
+`02` ETL / ELT pipelines  
+`03` SQL & data modeling  
+`04` dbt transformations  
+`05` Streaming fundamentals
+
+</td>
+<td width="50%">
+
+**// INTELLIGENCE SYSTEMS**
+
+`01` Machine learning  
+`02` Scikit-learn  
+`03` Pandas / NumPy  
+`04` FastAPI services  
+`05` Cloud & containers
+
+</td>
+</tr>
+</table>
+
+## `03 // ENCRYPTED PROJECT ARCHIVE`
+
+<details>
+<summary>🔴 <b>PROJECT_001 :: SAFESCHED</b> — DEADLOCK DETECTION</summary>
+
 ```text
-[01] LANGUAGE LAYER      Python / SQL / Java
-[02] DATA LAYER          ETL / dbt / Apache Spark
-[03] STORAGE LAYER       PostgreSQL / MySQL
-[04] INTELLIGENCE LAYER  Machine Learning / Scikit-learn
-[05] SERVICE LAYER       FastAPI / REST APIs
-[06] INFRASTRUCTURE      Docker / Git / Cloud
-[07] VISUALIZATION       Streamlit / Plotly
+CLASSIFICATION : RESOURCE ORCHESTRATION
+CORE           : LOGISTIC REGRESSION + BANKER'S ALGORITHM
+SERVICE        : FASTAPI
+DEPLOYMENT     : DOCKER / AWS APP RUNNER
 ```
 
-## `// 03 — CLASSIFIED PROJECTS`
+A deadlock-aware scheduling system combining machine learning with algorithmic verification to evaluate resource-allocation states.
 
-<details>
-<summary><b>[ PROJECT_001 ] SAFESCHED — DEADLOCK INTELLIGENCE</b></summary>
-
-An intelligent resource-scheduling system combining Logistic Regression with the Banker's Algorithm to assess resource-allocation safety.
-
-- ML-assisted classification and algorithmic verification
-- FastAPI backend
-- Containerized deployment
-
-`PYTHON` `MACHINE LEARNING` `FASTAPI` `DOCKER`
+**Stack:** Python · Machine Learning · FastAPI · Docker
 
 </details>
 
 <details>
-<summary><b>[ PROJECT_002 ] PIPEONE — DATA INGESTION PIPELINE</b></summary>
+<summary>🟢 <b>PROJECT_002 :: PIPEONE</b> — DATA WAREHOUSE</summary>
 
-An API-to-warehouse pipeline ingesting GitHub Events and Hacker News data, deduplicating records, upserting into PostgreSQL, and transforming data with dbt.
+```text
+SOURCE   : GITHUB EVENTS + HACKER NEWS APIs
+INGEST   : PYTHON
+STORAGE  : POSTGRESQL
+TRANSFORM: DBT
+DASHBOARD: STREAMLIT
+```
 
-- API ingestion and ETL
-- PostgreSQL warehouse
-- Streamlit analytics dashboard
+An API-to-warehouse pipeline featuring ingestion, deduplication, database upserts, transformations, and analytics.
 
-`PYTHON` `POSTGRESQL` `DBT` `STREAMLIT`
+**Stack:** Python · PostgreSQL · dbt · Streamlit
 
 </details>
 
 <details>
-<summary><b>[ PROJECT_003 ] MOVIEFLIX — ML APPLICATION</b></summary>
+<summary>🔴 <b>PROJECT_003 :: MOVIEFLIX</b> — ML APPLICATION</summary>
 
-A movie prediction project exploring machine learning, backend services, and containerized application workflows.
+A movie prediction project exploring machine learning, backend integration, and containerized deployment.
 
-`PYTHON` `MACHINE LEARNING` `DOCKER`
+**Stack:** Python · Machine Learning · Docker
 
 </details>
+
+## `04 // LIVE SYSTEM TELEMETRY`
 
 <div align="center">
 
-## `// 04 — LIVE TELEMETRY`
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=050707&title_color=00ff41&icon_color=ff3030&text_color=b8c9be"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&icon_color=ff3131&text_color=c9d1d9&ring_color=00ff41"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=050505&title_color=00ff41&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyakaranam777&hide_border=true&background=050505&ring=00ff41&fire=ff3131&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=777777"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=050707&title_color=00ff41&text_color=b8c9be"/>
 
 </div>
 
-## `// 05 — ACTIVE OPERATIONS`
+## `05 // EXECUTION QUEUE`
 
 ```text
-[ RUNNING ]   Strengthening Python and SQL
-[ RUNNING ]   Engineering reliable ETL workflows
-[ RUNNING ]   Exploring streaming and cloud architecture
-[ RUNNING ]   Building AI-powered applications
-[ QUEUED   ]   Turning prototypes into production systems
+[ ACTIVE ]  Python / SQL engineering
+[ ACTIVE ]  ETL and warehouse development
+[ ACTIVE ]  AI / ML application development
+[ ACTIVE ]  Backend and cloud fundamentals
+[ NEXT   ]  More reliable production pipelines
 ```
 
-## `// 06 — ACCESS POINT`
+## `06 // OPEN CHANNEL`
 
 <div align="center">
 
 <a href="https://github.com/chaitanyakaranam777?tab=repositories">
-<img src="https://img.shields.io/badge/ACCESS%20PROJECT%20ARCHIVE-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/OPEN%20PROJECT%20ARCHIVE-020303?style=for-the-badge&logo=github&logoColor=00ff41"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00ff41,50:07110b,100:000000&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00ff41,40:102d1c,100:020303&animation=twinkling"/>
 
 ```text
-CONNECTION CLOSED.
-THE SYSTEM NEVER SLEEPS.
+CONNECTION TERMINATED.
+THE PIPELINE CONTINUES.
 ```
 
-<sub>ENGINEER THE DATA. TRAIN THE INTELLIGENCE. CONTROL THE PIPELINE.</sub>
+<sub>ENGINEER THE DATA // TRAIN THE MODEL // SHIP THE SYSTEM</sub>
 
 </div>
-
