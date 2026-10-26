@@ -3,31 +3,27 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="95" alt="Animated skull"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=38&duration=400&pause=100&color=00FF41&center=true&vCenter=true&width=560&lines=C;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA" alt="Green hacker name animation"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="95" alt="Animated skull"/>
+  <img src="./assets/creepy-grin.gif" width="115" alt="Creepy grinning face"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&duration=400&pause=100&color=00FF41&center=true&vCenter=true&width=560&lines=C;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA" alt="Green hacker name animation"/>
+  <img src="./assets/ghost-figure.gif" width="115" alt="Ghostly figure"/>
 </p>
 
-<p align="center">
-  <code>▓▒░ IDENTITY UNRESOLVED ░▒▓</code>
-</p>
+<p align="center"><code>▓▒░ IDENTITY UNRESOLVED ░▒▓</code></p>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                 ANOMALY REPORT                          ║
+║                  ANOMALY REPORT                         ║
 ╠══════════════════════════════════════════════════════════╣
-║  ENTITY       : UNCLASSIFIED                            ║
-║  OBSERVER     : YOU                                     ║
-║  MEMORY       : CORRUPTED                               ║
-║  EXIT         : NOT FOUND                               ║
+║ ENTITY     : UNCLASSIFIED                                ║
+║ OBSERVER   : YOU                                         ║
+║ MEMORY     : CORRUPTED                                   ║
+║ EXIT       : NOT FOUND                                   ║
 ║                                                          ║
-║  [!] SOMETHING MOVED IN THE BACKGROUND                  ║
-║  [!] CONNECTION PERSISTS AFTER TERMINATION              ║
+║ [!] UNKNOWN SIGNAL DETECTED                              ║
+║ [!] CONNECTION PERSISTS AFTER TERMINATION                ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-> `01010111 01000101 00100000 01010011 01000101 01000101 00100000 01011001 01001111 01010101`
->
 > **WE SEE YOU.**
 >
 > `// IF YOU CAN READ THIS, THE PROCESS IS ALREADY RUNNING.`
@@ -37,25 +33,23 @@
 ## `01 // IDENTITY CORRUPTED`
 
 ```bash
-C:\VOID> whoami
+$ whoami
 > chaitanya
 
-C:\VOID> inspect --reality
-
-[ERROR] Reality checksum mismatch
-[ERROR] Origin could not be resolved
+$ scan --reality
+[ERROR] Origin unresolved
 [ERROR] Unknown process detected
+[ERROR] Exit route unavailable
 
-SUBJECT    : CHAITANYA KARANAM
-CLASS      : DEVELOPER
-SIGNATURE  : UNSTABLE
-TRACE      : STILL ACTIVE
+SUBJECT : CHAITANYA KARANAM
+CLASS   : DEVELOPER
+TRACE   : STILL ACTIVE
 ```
 
 ## `02 // DIGITAL WEAPONS`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,git,github,docker,postgres,html,css&theme=dark" alt="Developer technology stack"/>
+  <img src="https://skillicons.dev/icons?i=python,java,sql,git,github,docker,postgres,html,css&theme=dark" alt="Developer technologies"/>
 </p>
 
 ```text
@@ -75,15 +69,6 @@ WARNING: NO CLEAN EXIT AVAILABLE
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=850&pause=200&color=FF0000&center=true&vCenter=true&width=700&lines=CR7+%2F+THE+PHANTOM;THE+LEGEND+NEVER+LOGS+OUT;ONE+NAME.+NO+REPLACEMENT." alt="CR7 transmission"/>
 </p>
 
-```text
-             .---------------------.
-             |       C R 7         |
-             |   THE UNSTOPPABLE   |
-             '---------------------'
-
-              THE LEGEND PERSISTS.
-```
-
 ## `04 // CLASSIFIED ACTIVITY`
 
 <p align="center">
@@ -91,11 +76,7 @@ WARNING: NO CLEAN EXIT AVAILABLE
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=00FF41" alt="Most-used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chaitanyakaranam777&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=00FF41" alt="Language statistics"/>
 </p>
 
 ## `05 // LAST TRANSMISSION`
@@ -124,4 +105,3 @@ WHY ARE YOU STILL HERE?
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:300000,100:000000&height=120&section=footer" width="100%" alt="Dark red footer"/>
 </p>
-
