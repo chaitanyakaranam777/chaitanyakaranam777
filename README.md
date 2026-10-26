@@ -1,12 +1,10 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=150&color=00FF41&center=true&vCenter=true&width=700&lines=CHAITANYA;CHAITANYA;CHAITANYA;CHAITANYA" alt="Blinking neon green Chaitanya"/>
-
-# <span style="color:#00ff41">CHAITANYA</span>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=250&color=00FF41&center=true&vCenter=true&width=700&lines=CHAITANYA; ;CHAITANYA; ;CHAITANYA" alt="Blinking green hacker name"/>
 
 ### `DATA ENGINEER` · `DEVELOPER` · `SYSTEM BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=I+BUILD+SYSTEMS%2C+NOT+EXCUSES.;DATA+IN.+INTELLIGENCE+OUT.;THINK.+CODE.+DEPLOY.+REPEAT." alt="Developer motto"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=250&color=00FF41&center=true&vCenter=true&width=700&lines=CHAITANYA; ;CHAITANYA; ;CHAITANYA" alt="Blinking green hacker name"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-chaitanyakaranam777-111111?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/chaitanyakaranam777)
 [![Profile Views](https://komarev.com/ghpvc/?username=chaitanyakaranam777&style=for-the-badge&color=00ff41&label=PROFILE+SCANS)](https://github.com/chaitanyakaranam777)
@@ -136,9 +134,10 @@ MISSION: KEEP BUILDING.
 
 [![GitHub](https://img.shields.io/badge/Explore_My_Repositories-111111?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/chaitanyakaranam777?tab=repositories)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE.;BUILD.+BREAK.+FIX.+REPEAT.;END+OF+TRANSMISSION." alt="Terminal closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=250&color=00FF41&center=true&vCenter=true&width=700&lines=CHAITANYA; ;CHAITANYA; ;CHAITANYA" alt="Blinking green hacker name"/>
 
 `01000011 01001111 01000100 01000101`  // CODE
 
 </div>
+
 
