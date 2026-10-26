@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:07110b,70:10291a,100:00ff41&text=CHAITANYA%20KARANAM&fontSize=42&fontColor=00ff41&fontAlignY=38&desc=INTELLIGENCE%20%2F%2F%20DATA%20%2F%2F%20SYSTEMS&descAlignY=60&descSize=15&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,35:07110b,70:10291a,100:00ff41&text=chaitanya&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=DATA%20%2F%2F%20INTELLIGENCE%20%2F%2F%20SYSTEMS&descAlignY=60&descSize=15&animation=twinkling"/>
 
 <br/>
 
@@ -145,3 +145,4 @@ THE SYSTEM NEVER SLEEPS.
 <sub>ENGINEER THE DATA. TRAIN THE INTELLIGENCE. CONTROL THE PIPELINE.</sub>
 
 </div>
+
