@@ -1,0 +1,52 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1">
+  <stop stop-color="#020203"/><stop offset=".55" stop-color="#09050c"/><stop offset="1" stop-color="#010202"/>
+ </linearGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+  <path d="M30 0H0V30" fill="none" stroke="#19ff9b" stroke-opacity=".09"/>
+ </pattern>
+ <filter id="glow">
+  <feGaussianBlur stdDeviation="5" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+ </filter>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+
+<g font-family="monospace" font-size="14" fill="#19ff9b" opacity=".45">
+ <text x="32" y="35">GHOST_KERNEL :: BOOT_SEQUENCE_000</text>
+ <text x="850" y="35">MEMORY FRAGMENT DETECTED</text>
+ <text x="32" y="68">01000111 01001000 01001111 01010011 01010100</text>
+ <text x="875" y="82">PROCESS: UNKNOWN</text>
+ <text x="35" y="280">DATA ENTERS. SOMETHING ANSWERS.</text>
+ <text x="920" y="280">NODE_777</text>
+</g>
+
+<g fill="#19ff9b" opacity=".6" font-family="monospace" font-size="19">
+ <text x="65" y="125">╭──────╮</text>
+ <text x="65" y="150">│ ◉  ◉ │</text>
+ <text x="65" y="175">│  ▱   │</text>
+ <text x="65" y="200">╰┬────┬╯</text>
+ <text x="65" y="222"> ░░░░░░</text>
+</g>
+
+<g stroke="#19ff9b" stroke-opacity=".35" fill="none">
+ <path d="M0 245H300L325 220H400"/>
+ <path d="M1200 105H1030L1000 130H910"/>
+ <path d="M0 300H1200"/>
+</g>
+
+<g fill="#ff3158" opacity=".85">
+ <rect x="1135" y="120" width="7" height="22"/>
+ <rect x="1080" y="120" width="30" height="2"/>
+ <rect x="30" y="48" width="6" height="18"/>
+</g>
+
+<text x="660" y="135" text-anchor="middle" fill="#19ff9b" opacity=".25" filter="url(#glow)" font-family="monospace" font-size="52">GHOST.exe</text>
+<text x="660" y="135" text-anchor="middle" fill="#e6fff1" font-family="monospace" font-size="52">GHOST.exe</text>
+<text x="660" y="174" text-anchor="middle" fill="#ff3158" font-family="monospace" font-size="17" letter-spacing="5">HAUNTED INTELLIGENCE</text>
+<path d="M440 195H880" stroke="#19ff9b" stroke-opacity=".7"/>
+<text x="660" y="225" text-anchor="middle" fill="#a7b9af" font-family="monospace" font-size="15">AI / DATA ENGINEERING / MACHINE LEARNING</text>
+<text x="660" y="260" text-anchor="middle" fill="#ff3158" font-family="monospace" font-size="13">WARNING: THE PIPELINE IS AWAKE</text>
+</svg>
