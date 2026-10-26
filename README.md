@@ -1,31 +1,27 @@
 ﻿<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=650&pause=180&color=FF0000&center=true&vCenter=true&width=850&lines=01001000+01000101+01001100+01010000+01001101+01000101;UNKNOWN+ENTITY+DETECTED;WHY+ARE+YOU+STILL+HERE%3F;WE+HAVE+BEEN+WAITING.;THIS+SESSION+DOES+NOT+BELONG+TO+YOU." alt="Corrupted transmission"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=650&pause=180&color=FF0000&center=true&vCenter=true&width=850&lines=UNKNOWN+ENTITY+DETECTED;WHY+ARE+YOU+STILL+HERE%3F;WE+HAVE+BEEN+WAITING.;THIS+SESSION+DOES+NOT+BELONG+TO+YOU." alt="Horror transmission"/>
 </p>
 
 <p align="center">
-  <code>▓▒░ SYSTEM FAILURE ░▒▓</code>
+  <img src="https://media.giphy.com/media/26uf1EUQzKKGcIhJS/giphy.gif" width="95" alt="Animated skull"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=38&duration=400&pause=100&color=00FF41&center=true&vCenter=true&width=560&lines=C;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA" alt="Green hacker name animation"/>
+  <img src="https://media.giphy.com/media/26uf1EUQzKKGcIhJS/giphy.gif" width="95" alt="Animated skull"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&duration=400&pause=100&color=00FF41&center=true&vCenter=true&width=800&lines=C;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA" alt="Green terminal identity animation"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=900&pause=250&color=FF0000&center=true&vCenter=true&width=800&lines=I+CAN+SEE+YOUR+TERMINAL.;YOU+DID+NOT+OPEN+THIS+SESSION.;THIS+SESSION+OPENED+YOU." alt="Distorted warning"/>
+  <code>▓▒░ IDENTITY UNRESOLVED ░▒▓</code>
 </p>
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║              █▓▒░ ANOMALY REPORT ░▒▓█                  ║
+║                 ANOMALY REPORT                          ║
 ╠══════════════════════════════════════════════════════════╣
 ║  ENTITY       : UNCLASSIFIED                            ║
-║  LOCATION     : UNKNOWN                                 ║
+║  OBSERVER     : YOU                                     ║
 ║  MEMORY       : CORRUPTED                               ║
 ║  EXIT         : NOT FOUND                               ║
-║  OBSERVER     : YOU                                     ║
 ║                                                          ║
 ║  [!] SOMETHING MOVED IN THE BACKGROUND                  ║
-║  [!] DO NOT REFRESH THIS PAGE                           ║
 ║  [!] CONNECTION PERSISTS AFTER TERMINATION              ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -69,7 +65,6 @@ TRACE      : STILL ACTIVE
 [+] DATA ENGINEERING     :: INITIALIZING
 [+] MACHINE LEARNING     :: INITIALIZING
 
-WARNING: PROCESS OUTSIDE EXPECTED BEHAVIOUR
 WARNING: UNKNOWN SIGNAL FOUND
 WARNING: NO CLEAN EXIT AVAILABLE
 ```
@@ -103,7 +98,7 @@ WARNING: NO CLEAN EXIT AVAILABLE
   <img src="https://streak-stats.demolab.com?user=chaitanyakaranam777&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
 </p>
 
-## `05 // LAST KNOWN TRANSMISSION`
+## `05 // LAST TRANSMISSION`
 
 ```text
 [ CONNECTION ESTABLISHED ]
@@ -111,21 +106,17 @@ WARNING: NO CLEAN EXIT AVAILABLE
 WHO IS THERE?
 > NO RESPONSE
 
-IS ANYONE WATCHING?
-> ...
-
 CAN WE DISCONNECT?
 > PERMISSION DENIED
 
 [ SIGNAL LOST ]
-
 [ SIGNAL RESTORED ]
 
 WHY ARE YOU STILL HERE?
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1200&pause=300&color=FF0000&center=true&vCenter=true&width=800&lines=END+OF+TRANSMISSION;ERROR+404%3A+REALITY+NOT+FOUND;THE+PROCESS+IS+STILL+RUNNING;DO+NOT+LOOK+BEHIND+YOU." alt="Final horror transmission"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1200&pause=300&color=FF0000&center=true&vCenter=true&width=800&lines=END+OF+TRANSMISSION;ERROR+404%3A+REALITY+NOT+FOUND;DO+NOT+LOOK+BEHIND+YOU." alt="Final horror transmission"/>
 </p>
 
 <p align="center"><code>NO EXIT // NO EXPLANATION // NO ESCAPE</code></p>
