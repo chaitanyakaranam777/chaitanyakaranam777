@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071b12,100:00ff88&height=180&section=header&text=CHAITANYA%20KARAMAN&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20DATA%20ENGINEERING%20%7C%20SYSTEMS&descSize=13&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071b12,100:00ff88&height=180&section=header&text=CHAITANYA%20KARANAM&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20DATA%20ENGINEERING%20%7C%20SYSTEMS&descSize=13&descAlignY=60&animation=fadeIn" width="100%"/>
 
 ### `root@chaitanya:~$ whoami`
 
@@ -103,3 +103,4 @@ and containerized deployment workflow.
 <sub>ENGINEER THE DATA. BUILD THE INTELLIGENCE.</sub>
 
 </div>
+
