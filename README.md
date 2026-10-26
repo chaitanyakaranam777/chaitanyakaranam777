@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=500&color=00FF41&center=true&vCenter=true&width=650&lines=INITIALIZING+SECURE+SHELL...;LOADING+DEVELOPER+ENVIRONMENT...;ACCESS+GRANTED." alt="Terminal initialization"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=500&pause=150&color=00FF41&center=true&vCenter=true&width=700&lines=CHAITANYA;CHAITANYA;CHAITANYA;CHAITANYA" alt="Blinking neon green Chaitanya"/>
 
 # <span style="color:#00ff41">CHAITANYA</span>
 
@@ -141,3 +141,4 @@ MISSION: KEEP BUILDING.
 `01000011 01001111 01000100 01000101`  // CODE
 
 </div>
+
