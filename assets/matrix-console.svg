@@ -1,0 +1,42 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1">
+  <stop stop-color="#020504"/><stop offset=".5" stop-color="#07150d"/><stop offset="1" stop-color="#020303"/>
+ </linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+  <path d="M34 0H0V34" fill="none" stroke="#00ff88" stroke-opacity=".12"/>
+ </pattern>
+ <linearGradient id="scan" x2="0" y2="1">
+  <stop stop-color="#00ff88" stop-opacity=".12"/><stop offset="1" stop-color="#00ff88" stop-opacity="0"/>
+ </linearGradient>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/>
+<rect width="1200" height="300" fill="url(#grid)"/>
+<g font-family="monospace" font-size="15" fill="#00ff88" opacity=".43">
+ <text x="30" y="40">01001000 01000001 01000011 01001011</text>
+ <text x="800" y="40">NODE: 777</text>
+ <text x="30" y="80">10110101 00110101 10001001</text>
+ <text x="870" y="78">CORE_STATUS: ONLINE</text>
+ <text x="80" y="125">0x7F / INGEST / TRANSFORM</text>
+ <text x="880" y="125">MODEL_READY</text>
+ <text x="60" y="190">10101010 11001100 01010101</text>
+ <text x="860" y="190">ENCRYPTED CHANNEL</text>
+ <text x="50" y="260">SYS.LOG // PIPELINE // TELEMETRY</text>
+ <text x="930" y="260">[ MONITORED ]</text>
+</g>
+<g fill="none" stroke="#00ff88" stroke-opacity=".45">
+ <path d="M0 220H280L310 190H430"/>
+ <path d="M1200 100H1030L1000 130H900"/>
+ <path d="M0 285H1200"/>
+ <path d="M0 10H1200"/>
+</g>
+<g fill="#ff334b">
+ <rect x="30" y="54" width="6" height="15"/>
+ <rect x="1140" y="218" width="6" height="15"/>
+</g>
+<rect x="0" y="140" width="1200" height="30" fill="url(#scan)"/>
+<g fill="#00ff88" opacity=".8">
+ <circle cx="440" cy="150" r="3"/><circle cx="760" cy="150" r="3"/>
+</g>
+<path d="M460 150H740" stroke="#00ff88" stroke-width="1" stroke-opacity=".65"/>
+</svg>

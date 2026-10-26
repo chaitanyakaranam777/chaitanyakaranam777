@@ -1,134 +1,155 @@
 ﻿<div align="center">
 
-<img src="https://img.shields.io/badge/BLACKSITE-TERMINAL-050505?style=for-the-badge&labelColor=050505&color=00ff41"/>
-<img src="https://img.shields.io/badge/NODE-777-050505?style=for-the-badge&labelColor=050505&color=ff334b"/>
+<img width="100%" src="./assets/matrix-console.svg" alt="Matrix-style engineering terminal background"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=720&lines=%5B+BOOT+SEQUENCE+COMPLETE+%5D;DATA+IS+THE+SIGNAL;INGEST.+TRANSFORM.+ENGINEER.;AI+SYSTEMS+%2F%2F+DATA+PIPELINES;NODE+777+%3A%3A+ACCESS+GRANTED"/>
 
-```text
-┌────────────────────────────────────────────────────────────────────┐
-│  root@chaitanya:~$ ./initialize                                    │
-│                                                                    │
-│   ██████╗██╗  ██╗ █████╗ ██╗████████╗ █████╗ ███╗   ██╗██╗   ██╗  │
-│  ██╔════╝██║  ██║██╔══██╗██║╚══██╔══╝██╔══██╗████╗  ██║╚██╗ ██╔╝  │
-│  ██║     ███████║███████║██║   ██║   ███████║██╔██╗ ██║ ╚████╔╝   │
-│  ██║     ██╔══██║██╔══██║██║   ██║   ██╔══██║██║╚██╗██║  ╚██╔╝    │
-│  ╚██████╗██║  ██║██║  ██║██║   ██║   ██║  ██║██║ ╚████║   ██║     │
-│   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝     │
-│                                                                    │
-│  OPERATOR  : Chaitanya Karanam                                     │
-│  SPECIALTY : AI / DATA ENGINEERING                                 │
-│  STATUS    : BUILDING                                              │
-│  ACCESS    : AUTHORIZED                                            │
-└────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
-<div align="center">
-
-`[ DATA SYSTEMS ]` &nbsp; ` [ MACHINE INTELLIGENCE ]` &nbsp; `[ BACKEND ]`
+<img src="https://img.shields.io/badge/IDENTITY-CHAITANYA%20KARANAM-050807?style=for-the-badge&labelColor=050807&color=00ff88"/>
+<img src="https://img.shields.io/badge/DOMAIN-AI%20%2F%20DATA-050807?style=for-the-badge&labelColor=050807&color=ff334b"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-050807?style=for-the-badge&labelColor=050807&color=00ff88"/>
 
 </div>
 
 ---
 
-## `01 / OPERATOR PROFILE`
+<table>
+<tr>
+<td>
 
-```python
-class ChaitanyaKaranam:
-    role = "AI & Data Engineer in Progress"
-    languages = ["Python", "SQL", "Java"]
-    interests = [
-        "Data Engineering",
-        "Machine Learning",
-        "Cloud Infrastructure",
-        "Backend Systems",
-    ]
-    mission = "Transform raw data into intelligence."
-```
-
-> Building practical systems at the intersection of data engineering, machine learning, and software development.
-
-## `02 / SYSTEM MODULES`
-
-| MODULE | STACK |
-|:--|:--|
-| `01 INGESTION` | Python, REST APIs |
-| `02 TRANSFORMATION` | SQL, dbt, ETL |
-| `03 STORAGE` | PostgreSQL, MySQL |
-| `04 INTELLIGENCE` | Scikit-learn, Pandas, NumPy |
-| `05 SERVICES` | FastAPI |
-| `06 INFRASTRUCTURE` | Docker, Git, Cloud |
-| `07 OBSERVABILITY` | Streamlit, Plotly |
-
-## `03 / PROJECT FILESYSTEM`
+**`/sys/operator`**
 
 ```text
-/projects
-├── safesched/
-│   ├── machine-learning
-│   ├── bankers-algorithm
-│   └── fastapi-backend
-├── pipeone/
-│   ├── api-ingestion
-│   ├── postgresql-warehouse
-│   └── dbt-transformations
-└── movieflix/
-    ├── prediction-model
-    └── containerized-backend
+NAME     : Chaitanya Karanam
+ROLE     : AI & Data Engineer in Progress
+FOCUS    : Pipelines / ML / Systems
+MODE     : BUILD - TEST - DEPLOY
+DIRECTIVE: Turn data into intelligence
 ```
 
-<details>
-<summary><b>▸ SAFESCHED — DEADLOCK-AWARE SCHEDULING</b></summary>
+</td>
+</tr>
+</table>
 
-Combines Logistic Regression and the Banker's Algorithm to assess resource-allocation safety.
-
-`Python` `Machine Learning` `FastAPI` `Docker`
-
-</details>
-
-<details>
-<summary><b>▸ PIPEONE — API TO DATA WAREHOUSE</b></summary>
-
-Ingests GitHub Events and Hacker News data, deduplicates records, upserts into PostgreSQL, and transforms data with dbt.
-
-`Python` `PostgreSQL` `dbt` `Streamlit`
-
-</details>
-
-<details>
-<summary><b>▸ MOVIEFLIX — ML APPLICATION</b></summary>
-
-A movie prediction project exploring model integration and containerized backend deployment.
-
-`Python` `Machine Learning` `Docker`
-
-</details>
-
-## `04 / LIVE TELEMETRY`
+## `01 :: SYSTEM MAP`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff41&icon_color=ff334b&text_color=c9d1d9"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=050505&title_color=00ff41&text_color=c9d1d9"/>
+<img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,docker,git,fastapi,aws,gcp&theme=dark&perline=9"/>
 
 </div>
 
-## `05 / EXECUTION QUEUE`
+<table>
+<tr>
+<td width="50%">
+
+**`[ DATA PLANE ]`**
+
+- Python / SQL
+- ETL and ELT pipelines
+- PostgreSQL / MySQL
+- dbt transformations
+- API ingestion
+- Data modeling
+
+</td>
+<td width="50%">
+
+**`[ INTELLIGENCE PLANE ]`**
+
+- Machine learning
+- Scikit-learn
+- Pandas / NumPy
+- FastAPI services
+- Docker containers
+- Cloud fundamentals
+
+</td>
+</tr>
+</table>
+
+## `02 :: PROJECT VAULT`
+
+<details>
+<summary><b><code>01 / SAFESCHED</code> — DEADLOCK INTELLIGENCE</b></summary>
 
 ```text
-[ ACTIVE ] Python / SQL
-[ ACTIVE ] Data pipelines and warehouse systems
-[ ACTIVE ] AI / ML application development
-[ EXPLORING ] Cloud infrastructure and streaming
+TYPE       : RESOURCE SCHEDULING
+PREDICTOR  : LOGISTIC REGRESSION
+VALIDATOR  : BANKER'S ALGORITHM
+API        : FASTAPI
+DEPLOYMENT : AWS APP RUNNER / DOCKER
 ```
 
-## `06 / CONNECTION`
+An intelligent scheduling project combining ML classification with algorithmic verification of resource-allocation states.
+
+`PYTHON` `MACHINE LEARNING` `FASTAPI` `DOCKER`
+
+</details>
+
+<details>
+<summary><b><code>02 / PIPEONE</code> — DATA WAREHOUSE ENGINE</b></summary>
+
+```text
+SOURCES    : GITHUB EVENTS / HACKER NEWS
+INGESTION  : PYTHON API CLIENTS
+WAREHOUSE  : POSTGRESQL
+TRANSFORM  : DBT
+VISUALS    : STREAMLIT
+```
+
+An ETL workflow with ingestion, deduplication, database upserts, transformations, and an analytics dashboard.
+
+`PYTHON` `POSTGRESQL` `DBT` `STREAMLIT`
+
+</details>
+
+<details>
+<summary><b><code>03 / MOVIEFLIX</code> — PREDICTION SYSTEM</b></summary>
+
+A machine-learning application exploring prediction workflows, backend integration, and containerized deployment.
+
+`PYTHON` `MACHINE LEARNING` `DOCKER`
+
+</details>
+
+## `03 :: LIVE TELEMETRY`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/ACCESS_PROJECTS-050505?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/chaitanyakaranam777?tab=repositories)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=050807&title_color=00ff88&icon_color=ff334b&text_color=c6d8cd"/>
 
-`END OF TRANSMISSION // NODE 777`
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=050807&title_color=00ff88&text_color=c6d8cd"/>
+
+</div>
+
+## `04 :: EXECUTION QUEUE`
+
+```text
+[ ACTIVE ]  Python / SQL engineering
+[ ACTIVE ]  ETL and warehouse development
+[ ACTIVE ]  AI / ML applications
+[ EXPLORING ] Cloud and streaming architecture
+[ NEXT ]    Production-grade data systems
+```
+
+## `05 :: CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/chaitanyakaranam777?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_PROJECT_VAULT-050807?style=for-the-badge&logo=github&logoColor=00ff88"/>
+</a>
+
+<br/><br/>
+
+<sub>DATA IS THE SIGNAL. ENGINEERING IS THE EDGE.</sub>
+
+```text
+CONNECTION STATUS : OPEN
+NODE              : 777
+END OF TRANSMISSION_
+```
 
 </div>
