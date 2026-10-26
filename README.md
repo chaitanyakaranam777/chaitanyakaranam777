@@ -1,100 +1,149 @@
-﻿
-<div align="center">
+﻿# ☠ `C H A I T A N Y A` ☠
 
-# ☠  G H O S T . E X E  ☠
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&duration=1200&pause=300&color=FF0000&center=true&vCenter=true&width=700&lines=SIGNAL+BREACHED...;YOU+WERE+NOT+SUPPOSED+TO+BE+HERE.;SOMETHING+IS+WATCHING.;DO+NOT+LOOK+BEHIND+YOU](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono\&size=21\&duration=1200\&pause=300\&color=FF0000\&center=true\&vCenter=true\&width=700\&lines=SIGNAL+BREACHED...;YOU+WERE+NOT+SUPPOSED+TO+BE+HERE.;SOMETHING+IS+WATCHING.;DO+NOT+LOOK+BEHIND+YOU)." alt="Horror transmission" />
+\</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=19&duration=1800&pause=400&color=FF0000&center=true&vCenter=true&width=650&lines=YOU+SHOULD+NOT+HAVE+FOUND+THIS.;IDENTITY+CORRUPTED.;NO+SIGNAL.+NO+EXIT.;SOMETHING+IS+WATCHING." alt="Corrupted terminal" />
-
-</div>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=36&duration=500&pause=100&color=00FF41&center=true&vCenter=true&width=750&lines=C;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono\&size=36\&duration=500\&pause=100\&color=00FF41\&center=true\&vCenter=true\&width=750\&lines=C;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA)" alt="Chaitanya hacker animation" />
+\</p>
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗                 ║
-║  ██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝                 ║
-║  ██║  ███╗███████║██║   ██║███████╗   ██║                    ║
-║  ██║   ██║██╔══██║██║   ██║╚════██║   ██║                    ║
-║  ╚██████╔╝██║  ██║╚██████╔╝███████║   ██║                    ║
-║   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝                    ║
+║  IDENTITY   : CHAITANYA                                      ║
+║  STATUS     : ONLINE                                         ║
+║  ORIGIN     : UNKNOWN                                        ║
+║  TRACE      : ████████████████████ ACTIVE                    ║
+║  TERMINATION: FAILED                                         ║
 ║                                                              ║
-║   [ SYSTEM INTEGRITY: COMPROMISED ]                           ║
-║   [ OPERATOR: CHAITANYA_KARANAM ]                            ║
-║   [ UNKNOWN PROCESS: RUNNING ]                               ║
-║   [ TERMINATION: FAILED ]                                    ║
+║  [!] UNIDENTIFIED SIGNAL DETECTED                            ║
+║  [!] CONNECTION CANNOT BE CLOSED                             ║
+║  [!] SOMETHING HAS ENTERED THE SYSTEM                        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> `0x47 0x48 0x4F 0x53 0x54`
+> `01000011 01001000 01000001 01001001 01010100 01000001 01001110 01011001 01000001`
 >
-> **THE SYSTEM REMEMBERS EVERYTHING.**
+> **THE SYSTEM KNOWS YOUR NAME.**
 >
-> `// THERE IS NO SUCH THING AS A CLEAN EXIT`
+> `// YOU WERE NEVER ALONE IN THE TERMINAL`
 
 ---
 
-## `01 // THE ENTITY`
+## `01 // IDENTITY UNKNOWN`
 
 ```bash
-$ sudo identify --process=unknown
+$ whoami
 
-[ERROR] identity cannot be verified
-[ERROR] origin not found
-[ERROR] process cannot be terminated
+> chaitanya
+
+$ scan --identity
+
+[ERROR] origin unresolved
+[ERROR] signature corrupted
+[ERROR] exit route unavailable
 
 NAME       : CHAITANYA KARANAM
 CLASS      : DEVELOPER
-SPECIALTY  : DATA / AI / SYSTEMS
-STATE      : UNKNOWN
+STATE      : EVOLVING
+VISIBILITY : UNKNOWN
 ```
 
-## `02 // TECHNICAL REMAINS`
+## `02 // DIGITAL WEAPONS`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,sql,git,github,docker,postgres,html,css&theme=dark" alt="Technology stack" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,java,sql,git,github,docker,postgres,html,css&theme=dark](https://skillicons.dev/icons?i=python,java,sql,git,github,docker,postgres,html,css\&theme=dark)" alt="Developer technologies" />
+\</p>
 
 ```text
-> PYTHON               [ACTIVE]
-> SQL                  [ACTIVE]
-> DATA ENGINEERING     [ACTIVE]
-> MACHINE LEARNING     [ACTIVE]
-> SOFTWARE DEVELOPMENT [ACTIVE]
+C:\SYSTEM> initialize --developer
 
-[WARNING] THE PROCESS IS STILL RUNNING...
+[+] PYTHON               :: ACTIVE
+[+] SQL                  :: ACTIVE
+[+] DATA ENGINEERING     :: ACTIVE
+[+] MACHINE LEARNING     :: ACTIVE
+[+] SOFTWARE DEVELOPMENT :: ACTIVE
+
+C:\SYSTEM> scan --integrity
+
+WARNING: UNKNOWN SIGNAL FOUND
+WARNING: SOURCE NOT IDENTIFIED
+WARNING: CONNECTION STILL ACTIVE
 ```
 
-## `03 // CORRUPTED TRANSMISSION`
+## `03 // CR7 — THE PHANTOM`
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=999999&icon_color=FF0000" alt="System statistics" />
-</p>
+```text
+                 ▄████▄
+               ▄████████▄
+              ████████████
+              ██  ██  ████
+              ██  ██  ████
+               ██████████
+                 ██████
+                ▄██████▄
+               ██  ██  ██
+              ██   ██   ██
+             ██    ██    ██
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=999999" alt="Language statistics" />
-</p>
+          ██████╗ ██████╗
+         ██╔════╝ ██╔══██╗
+         ██║      ██████╔╝
+         ██║      ██╔══██╗
+         ╚██████╗ ██║  ██║
+          ╚═════╝ ╚═╝  ╚═╝
+
+                 C R 7
+
+       THE LEGEND NEVER LOGS OUT.
+```
+
+## `04 // SIGNALS FROM THE VOID`
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=00FF41&icon_color=FF0000](https://github-readme-stats.vercel.app/api?username=chaitanyakaranam777\&show_icons=true\&hide_border=true\&bg_color=000000\&title_color=FF0000\&text_color=00FF41\&icon_color=FF0000)" alt="GitHub statistics" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=00FF41](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakaranam777\&layout=compact\&hide_border=true\&bg_color=000000\&title_color=FF0000\&text_color=00FF41)" alt="Language statistics" />
+\</p>
 
 ---
 
+## `05 // FINAL TRANSMISSION`
+
 ```text
-FATAL EXCEPTION: REALITY.EXE
+[ CONNECTION ESTABLISHED ]
 
-Memory............. CORRUPTED
-Origin............. UNKNOWN
-Connection......... ACTIVE
-Observer........... DETECTED
+IDENTITY?
+> CHAITANYA
 
-DO NOT TRUST THE DISPLAY.
-DO NOT ASSUME IT IS EMPTY.
-DO NOT ASSUME IT HAS CLOSED.
+LOCATION?
+> UNRESOLVED
 
-[ END OF TRANSMISSION ]
+EXIT?
+> ROUTE NOT FOUND
+
+TERMINATE?
+> ACCESS DENIED
+
+...
+
+[ SIGNAL LOST ]
+
+[ SIGNAL RESTORED ]
+
+[ CHAITANYA IS STILL HERE ]
 ```
 
-<div align="center">
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1500&pause=400&color=FF0000&center=true&vCenter=true&width=700&lines=END+OF+TRANSMISSION;ERROR+404%3A+REALITY+NOT+FOUND;CHAITANYA+IS+STILL+ONLINE](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono\&size=18\&duration=1500\&pause=400\&color=FF0000\&center=true\&vCenter=true\&width=700\&lines=END+OF+TRANSMISSION;ERROR+404%3A+REALITY+NOT+FOUND;CHAITANYA+IS+STILL+ONLINE)" alt="Final horror transmission" /> \</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:250000,100:000000&height=100&section=footer" width="100%" alt="Dark red footer" />
+\<p align="center">
+&#x20; \<code>☠ NO EXIT ☠ NO SIGNAL ☠ NO ESCAPE ☠\</code>
+\</p>
 
-`☠ SYSTEM UNAVAILABLE — ENTITY STILL ACTIVE ☠`
-
-</div>
+\<p align="center">
+&#x20; \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:300000,100:000000&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,50:300000,100:000000\&height=100\&section=footer)" width="100%" alt="Dark red footer" />
+\</p>
