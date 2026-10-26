@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26uf1EUQzKKGcIhJS/giphy.gif" width="95" alt="Animated skull"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="95" alt="Animated skull"/>
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=38&duration=400&pause=100&color=00FF41&center=true&vCenter=true&width=560&lines=C;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA" alt="Green hacker name animation"/>
-  <img src="https://media.giphy.com/media/26uf1EUQzKKGcIhJS/giphy.gif" width="95" alt="Animated skull"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="95" alt="Animated skull"/>
 </p>
 
 <p align="center">
@@ -124,3 +124,4 @@ WHY ARE YOU STILL HERE?
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:300000,100:000000&height=120&section=footer" width="100%" alt="Dark red footer"/>
 </p>
+
