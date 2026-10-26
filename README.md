@@ -1,5 +1,8 @@
 ﻿<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=900&pause=300&color=00FF41&center=true&vCenter=true&width=700&lines=CHAITANYA;CHAITANYA;CHAITANYA" alt="Chaitanya green terminal animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=650&pause=250&color=00FF41&center=true&vCenter=true&width=700&lines=C;H;A;I;T;A;N;Y;A;CH;CHA;CHAI;CHAIT;CHAITA;CHAITAN;CHAITANY;CHAITANYA" alt="Chaitanya letter-by-letter hacker animation"/>
+</p>
+<p align="center">
+  
 </p>
 <div align="center">
 
@@ -142,6 +145,7 @@ MISSION: KEEP BUILDING.
 `01000011 01001111 01000100 01000101`  // CODE
 
 </div>
+
 
 
 
